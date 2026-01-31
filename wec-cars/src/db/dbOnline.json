@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "carro": "ALPINE A424",
+        "equipe": "ALPINE ENDURANCE TEAM",
+        "fabricante": "ALPINE",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-367b99-68f0a66bb5a0e424184168.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/alpine-38067f-697a16581b740361209421.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 2,
+        "carro": "ASTON MARTIN Valkyrie",
+        "equipe": "ASTON MARTIN THOR TEAM",
+        "fabricante": "ASTON MARTIN",
+        "imagem_carro": "https://www.fiawec.com/uploads/2025-wec-007-aston-martin-valkyrie-droite-6067f5-68f0a64a3c825602781859.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/aston-fdd62a-68ff535d3c4a0585117529.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 3,
+        "carro": "BMW M M HYBRID V8",
+        "equipe": "BMW M TEAM WRT",
+        "fabricante": "BMW",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-9c473f-68f0a64c1963e608702484.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/bmw-373683-68ff5362acc2d092444149.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 4,
+        "carro": "CADILLAC V-Series.R",
+        "equipe": "CADILLAC HERTZ TEAM JOTA",
+        "fabricante": "CADILLAC",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-567b99-68f0a64bcf039523649967.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/cadillac-51067f-697a16d405631439742499.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 5,
+        "carro": "FERRARI 499P",
+        "equipe": "FERRARI AF CORSE",
+        "fabricante": "FERRARI",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-9d9324-68f0a66c81e84873245591.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/ferrari-67ffdd-68ff535b644bc599888918.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 6,
+        "carro": "FERRARI 499P",
+        "equipe": "AF CORSE",
+        "fabricante": "FERRARI",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-467b99-68f0a66d0b4bf155214791.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/ferrari-67ffdd-68ff535b644bc599888918.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+
+    {
+        "id": 7,
+        "carro": "PEUGEOT 9X8",
+        "equipe": "PEUGEOT TOTALENERGIES",
+        "fabricante": "PEGOUT",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-99d9fd-68f0a66d4bdcb424511047.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/peugeot-2e010b-68ff535dcefd7489705194.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 8,
+        "carro": "PORSCHE 963",
+        "equipe": "PORSCHE PENSKE MOTORSPORT",
+        "fabricante": "PORSCHE",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-66467b-68f0a64abfac2466224951.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/porsche-867ffd-68ff53610b344513495822.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    },
+
+    {
+        "id": 9,
+        "carro": "TOYOTA GR010 - Hybrid",
+        "equipe": "TOYOTA GAZOO RACING",
+        "fabricante": "TOYOTA",
+        "imagem_carro": "https://www.fiawec.com/uploads/2-7967b9-68f0a64b4846c705825292.png",
+        "imagem_fabricante": "https://www.fiawec.com/uploads/toyota-ff029e-697a17ae90982559363244.png",
+        "categoria": "LMH",
+        "imagemCategoria": "Hypercar.png"
+    }
+
+]

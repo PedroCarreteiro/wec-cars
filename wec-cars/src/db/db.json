@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "carro": "ALPINE A424",
+        "equipe": "ALPINE ENDURANCE TEAM",
+        "fabricante": "ALPINE",
+        "imagem_carro": "alpinehyper.png",
+        "imagem_fabricante": "alpine.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 2,
+        "carro": "ASTON MARTIN Valkyrie",
+        "equipe": "ASTON MARTIN THOR TEAM",
+        "fabricante": "ASTON MARTIN",
+        "imagem_carro": "amhyper.png",
+        "imagem_fabricante": "am.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 3,
+        "carro": "BMW M M HYBRID V8",
+        "equipe": "BMW M TEAM WRT",
+        "fabricante": "BMW",
+        "imagem_carro": "bmwhyperblue.png",
+        "imagem_fabricante": "bmw.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 4,
+        "carro": "CADILLAC V-Series.R",
+        "equipe": "CADILLAC HERTZ TEAM JOTA",
+        "fabricante": "CADILLAC",
+        "imagem_carro": "cadillachyper.png",
+        "imagem_fabricante": "cadillac.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 5,
+        "carro": "FERRARI 499P",
+        "equipe": "FERRARI AF CORSE",
+        "fabricante": "FERRARI",
+        "imagem_carro": "ferrarihyperfabric.png",
+        "imagem_fabricante": "ferrari.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 6,
+        "carro": "FERRARI 499P",
+        "equipe": "AF CORSE",
+        "fabricante": "FERRARI",
+        "imagem_carro": "ferrarihyperaf.png",
+        "imagem_fabricante": "ferrari.png",
+        "categoria": "LMH"
+    },
+
+
+    {
+        "id": 7,
+        "carro": "PEUGEOT 9X8",
+        "equipe": "PEUGEOT TOTALENERGIES",
+        "fabricante": "PEGOUT",
+        "imagem_carro": "pegouthyper.png",
+        "imagem_fabricante": "pegout.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 8,
+        "carro": "PORSCHE 963",
+        "equipe": "PORSCHE PENSKE MOTORSPORT",
+        "fabricante": "PORSCHE",
+        "imagem_carro": "porschehyperblack.png",
+        "imagem_fabricante": "porsche.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 9,
+        "carro": "TOYOTA GR010 - Hybrid",
+        "equipe": "TOYOTA GAZOO RACING",
+        "fabricante": "TOYOTA",
+        "imagem_carro": "toyotahyper.png",
+        "imagem_fabricante": "toyota.png",
+        "categoria": "LMH"
+    },
+
+    {
+        "id": 10,
+        "carro": "ASTON MARTIN Vantage AMR LMGT3",
+        "equipe": "RACING SPIRIT OF LEMAN",
+        "fabricante": "ASTON MARTIN",
+        "imagem_carro": "amgt3lm.png",
+        "imagem_fabricante": "am.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 11,
+        "carro": "ASTON MARTIN Vantage AMR LMGT3",
+        "equipe": "HEART OF RACING TEAM",
+        "fabricante": "ASTON MARTIN",
+        "imagem_carro": "amgt3ht.png",
+        "imagem_fabricante": "am.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 12,
+        "carro": "BMW M M4 LMGT3",
+        "equipe": "THE BEND TEAM WRT",
+        "fabricante": "BMW",
+        "imagem_carro": "bmwgt3ben.png",
+        "imagem_fabricante": "bmw.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 13,
+        "carro": "BMW M M4 LMGT3",
+        "equipe": "TEAM WRT",
+        "fabricante": "BMW",
+        "imagem_carro": "bmwgt3wrt.png",
+        "imagem_fabricante": "bmw.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 14,
+        "carro": "CORVETTE Z06 LMGT3.R",
+        "equipe": "TF SPORT",
+        "fabricante": "CORVETTE",
+        "imagem_carro": "corvettegt3.png",
+        "imagem_fabricante": "corvette.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 15,
+        "carro": "CORVETTE Z06 LMGT3.R",
+        "equipe": "TF SPORT",
+        "fabricante": "CORVETTE",
+        "imagem_carro": "corvettegt3b.png",
+        "imagem_fabricante": "corvette.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 16,
+        "carro": "FERRARI 296 LMGT3",
+        "equipe": "VISTA AF CORSE",
+        "fabricante": "FERRARI",
+        "imagem_carro": "ferrarigt3.png",
+        "imagem_fabricante": "ferrari.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 17,
+        "carro": "FORD Mustang LMGT3",
+        "equipe": "PROTON COMPETITION",
+        "fabricante": "FORD",
+        "imagem_carro": "fordgt3w.png",
+        "imagem_fabricante": "ford.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 18,
+        "carro": "FORD Mustang LMGT3",
+        "equipe": "PROTON COMPETITION",
+        "fabricante": "FORD",
+        "imagem_carro": "fordgt3.png",
+        "imagem_fabricante": "ford.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 19,
+        "carro": "LEXUS RC F LMGT3",
+        "equipe": "AKKODIS ASP TEAM",
+        "fabricante": "LEXUS",
+        "imagem_carro": "lexusgt3.png",
+        "imagem_fabricante": "lexus.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 20,
+        "carro": "McLAREN 720S LMGT3 Evo",
+        "equipe": "UNITED AUTOSPORTS",
+        "fabricante": "MCLAREN",
+        "imagem_carro": "mclarengt3.png",
+        "imagem_fabricante": "mclaren.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 21,
+        "carro": "MERCEDES-AMG -AMG LMGT3",
+        "equipe": "IRON LYNX",
+        "fabricante": "MERCEDES",
+        "imagem_carro": "amggt3Y.png",
+        "imagem_fabricante": "amg.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 22,
+        "carro": "MERCEDES-AMG -AMG LMGT3",
+        "equipe": "IRON LYNX",
+        "fabricante": "MERCEDES",
+        "imagem_carro": "amggt3.png",
+        "imagem_fabricante": "amg.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 23,
+        "carro": "PORSCHE 911 GT3 R LMGT3",
+        "equipe": "IRON DAMES",
+        "fabricante": "PORSCHE",
+        "imagem_carro": "porschegt3dames.png",
+        "imagem_fabricante": "porsche.png",
+        "categoria": "LMGT3"
+    },
+
+    {
+        "id": 24,
+        "carro": "PORSCHE 911 GT3 R LMGT3",
+        "equipe": "MANTHEY 1ST PHORM",
+        "fabricante": "PORSCHE",
+        "imagem_carro": "porschegt3phorm.png",
+        "imagem_fabricante": "porsche.png",
+        "categoria": "LMGT3"
+    }
+
+]

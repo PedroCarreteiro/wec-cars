@@ -1,0 +1,145 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--white);
+    border-radius: 1rem;
+    border: 2px solid;
+    padding: 1rem;
+    width: 20rem;
+    min-height: 25rem;
+    transition: transform 0.3s ease;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 21rem;
+    margin-bottom: 0.5rem;
+}
+
+.info > *{
+    margin: 0.5rem;
+}
+
+.card:hover,
+.card:focus-visible{
+    transform: scale(1.05);
+}
+
+
+.card.LMH{
+    border-color: var(--red);
+}
+
+.card.LMGT3{
+    border-color: var(--green);
+}
+
+.logoFabricante{
+    width: 10rem;
+}
+
+.imagemCarro{
+    width: 20rem;
+}
+
+.imagemCategoria{
+    width: 3rem;
+}
+
+.btnFavorito{
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.card.LMH .btnFavorito{
+    border: 2px solid var(--red);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: var(--red);
+    transition: 0.5s ease;
+    color: white;
+}
+
+.card.LMH .btnFavorito:hover{
+    border: 2px solid var(--red);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: var(--white);
+    transition: 0.5s ease;
+    color: black;
+}
+
+.card.LMGT3 .btnFavorito{
+    border: 2px solid var(--green);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: var(--green);
+    transition: 0.5s ease;
+    color: white;
+}
+
+.card.LMGT3 .btnFavorito:hover{
+    border: 2px solid var(--green);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: var(--white);
+    transition: 0.5s ease;
+    color: black;
+}
+
+.card.favoritoLMH{
+    background-color: var(--red);
+    color: white;
+}
+
+.card.favoritoLMH .btnFavorito{
+    border: 2px solid var(--red);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    transition: 0.5s ease;
+    color: black;
+}
+
+.card.favoritoLMH .btnFavorito:hover{
+    border: 2px solid var(--red);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    transition: 0.5s ease;
+    color: black;
+}
+
+.card.favoritoLMGT3{
+    background-color: var(--green);
+    color: white;
+}
+
+.card.favoritoLMGT3 .btnFavorito{
+    border: 2px solid var(--green);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    transition: 0.5s ease;
+    color: black;
+}
+
+.card.favoritoLMGT3 .btnFavorito:hover{
+    border: 2px solid var(--green);
+    width: 8rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    transition: 0.5s ease;
+    color: black;
+}

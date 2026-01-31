@@ -1,0 +1,69 @@
+.cardsContainer{
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap: 3rem 3rem; 
+    padding: 1.25rem;   
+    max-width: 110rem; 
+    margin: 0 auto;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filtros {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.btnFiltroAll {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+.btnFiltroAll.ativo {
+    background-color: var(--blue);
+    border: 2px solid var(--blue);
+    color: black;
+}
+
+.btnFiltroLMH {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+.btnFiltroLMH.ativo {
+    background-color: var(--red);
+    border: 2px solid var(--red);
+    color: white;
+}
+
+.btnFiltroLMGT3 {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+.btnFiltroLMGT3.ativo {
+    background-color: var(--green);
+    border: 2px solid var(--green);
+    color: white;
+}
+
+.initial{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
