@@ -1,1 +1,1 @@
-# GRID de carros da WEC de 2025
+# Some of the WEC cars 2025 grid
